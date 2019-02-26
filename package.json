@@ -1,0 +1,14 @@
+{
+  "name": "newprojectstartup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "server": "node server/server.js"
+  },
+  "author": "Dmytro Diachenko",
+  "dependencies": {
+    "express": "^4.16.0",
+    "morgan": "^1.9.0"
+  }
+}
